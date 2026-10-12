@@ -1,0 +1,1 @@
+nbr1 = int(input("Insère un problème nombre entier :"))
